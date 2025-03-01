@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.exe
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\bin\Debug\net8.0\04.Sequence2k+1.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\refint\04.Sequence2k+1.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\04.Sequence2k+1.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\04.Sequence2k+1\obj\Debug\net8.0\ref\04.Sequence2k+1.dll
