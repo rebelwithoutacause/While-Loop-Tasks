@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\bin\Debug\net8.0\01.NumbersOneToOneHundred.exe
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\bin\Debug\net8.0\01.NumbersOneToOneHundred.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\bin\Debug\net8.0\01.NumbersOneToOneHundred.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\bin\Debug\net8.0\01.NumbersOneToOneHundred.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\bin\Debug\net8.0\01.NumbersOneToOneHundred.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\refint\01.NumbersOneToOneHundred.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\01.NumbersOneToOneHundred.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\01.NumbersOneToOneHundred\obj\Debug\net8.0\ref\01.NumbersOneToOneHundred.dll

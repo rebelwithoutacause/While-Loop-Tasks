@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.exe
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\refint\02.DecreasingNumbers.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\ref\02.DecreasingNumbers.dll
